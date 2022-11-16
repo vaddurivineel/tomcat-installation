@@ -10,6 +10,7 @@ Supported OS
 Dependencies
 ------------
 |**Tomcat Version** | **Java Version**|
+|---------|---------------|
 |    8.5        | 7 or later  |
 |    9.0        | 8 or later  |
 
