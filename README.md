@@ -16,6 +16,6 @@ Dependencies
 
 |**Default Values**| **Description**|
 |---------|---------------|
-| 9.0.68 | Tomcat version to be installed
+| 9.0.69 | Tomcat version to be installed
 | localhost/public-ip | Server IP of Tomcat|
 | 8080 | Port on which tomcat is listening|
